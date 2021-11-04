@@ -1,2 +1,2 @@
-# lab2work
+# Lab2
 Created with CodeSandbox
